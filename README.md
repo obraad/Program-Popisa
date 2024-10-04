@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://github.com/obraad/Popis-Kladionice/blob/main/Images/logo.png" width="20" height="20" /> Popis Kladionice</h2>
+<h2 align="center"><img src="https://github.com/obraad/Program-Popisa/blob/main/Images/logo.png" width="20" height="20" /> Popis Kladionice</h2>
 
 <p align="center">
 <img alt="Made With Python" src="https://i.imgur.com/7TBvdCk.png">
